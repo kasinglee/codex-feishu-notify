@@ -1,0 +1,8 @@
+interface:
+  display_name: "飞书任务通知"
+  short_description: "按需发送 Codex 任务结果到飞书群，并通过 computer use 引导完成机器人和密钥配置"
+  icon_small: "./assets/avatar.png"
+  icon_large: "./assets/avatar.png"
+  default_prompt: "使用 $feishu-notify，处理完当前请求后发一条飞书通知。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+{
+  "enabled": false,
+  "group_name": "Codex通知",
+  "webhook_url": "https://open.feishu.cn/open-apis/bot/v2/hook/YOUR_WEBHOOK_TOKEN",
+  "signing_secret": "YOUR_SIGNING_SECRET"
+}
